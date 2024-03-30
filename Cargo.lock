@@ -84,7 +84,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "simplex-rust"
+name = "simplex_rust"
 version = "0.1.0"
 dependencies = [
  "num",
